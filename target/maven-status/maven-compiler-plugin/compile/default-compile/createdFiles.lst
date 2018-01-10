@@ -1,0 +1,3 @@
+com\project\validator\ProductRegistrationValidator.class
+com\project\bean\ProductRegistration.class
+com\project\controllers\ProductRegistrationController.class
